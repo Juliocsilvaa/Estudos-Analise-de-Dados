@@ -10,23 +10,25 @@ A organização foi estruturada por biblioteca ou abordagem de automação, perm
 ## 📚 Bibliotecas Exploradas
 
 - PyAutoGUI
--
--
+- Pandas
+- time
 
 ## 📚 Conteudo Disponivel
 
 📁 **`1. PyAutoGUI`**
 
-- Automação
-- 
-- 
+- Fundamentos da automação de interface gráfica (GUI);
+- Principais comandos para controle de mouse e teclado;
+- Controle de sincronização entre ações;
+- Limitações da automação baseada em coordenadas;
+- Estudo de caso prático: automação de cadastro em sistema.
+   
 📁 **`2. `**
 
 - 
 - 
 - 
 - 
-
 
 
 
