@@ -31,8 +31,8 @@ Cada biblioteca possui sua própria pasta com descrição detalhada e exemplos p
 
 📁 **`1. Automação`**
 
-- Pandas
 - PyAutoGui
+-
 -
 
 📁 **`2. `**
@@ -40,4 +40,5 @@ Cada biblioteca possui sua própria pasta com descrição detalhada e exemplos p
 - 
 - 
 - 
+
 
