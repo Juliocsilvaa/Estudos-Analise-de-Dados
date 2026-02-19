@@ -9,13 +9,13 @@ A organização foi estruturada por biblioteca ou abordagem de automação, perm
 
 ## 📚 Bibliotecas Exploradas
 
-- Automação
+- PyAutoGUI
 -
 -
 
 ## 📚 Conteudo Disponivel
 
-📁 **`1. Automação`**
+📁 **`1. PyAutoGUI`**
 
 - Automação
 - 
@@ -26,6 +26,7 @@ A organização foi estruturada por biblioteca ou abordagem de automação, perm
 - 
 - 
 - 
+
 
 
 
