@@ -23,30 +23,21 @@ Para cada biblioteca estudada:
 2. Reprodução de exemplos básicos;
 3. Desenvolvimento de pequenos scripts práticos;
 4. Testes exploratórios;
-5. Registro de aprendizados no README específico.
+5. Registro de aprendizados com base em projetos reais no README específico.
 
 
-# 📚 Bibliotecas Exploradas
-
-- Automação
--
--
-
-
+## 📚 Bibliotecas Exploradas
 Cada biblioteca possui sua própria pasta com descrição detalhada e exemplos práticos.
-
-## 📚 Conteudo Disponivel
 
 📁 **`1. Automação`**
 
-- Automação
-- 
-- 
+- Pandas
+- PyAutoGui
+-
+
 📁 **`2. `**
 
 - 
 - 
 - 
-- 
-
 
