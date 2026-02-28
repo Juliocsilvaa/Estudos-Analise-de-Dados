@@ -49,8 +49,8 @@ Sempre que aplicável, a fonte original do código é devidamente citada.
 
 📁 **`2. SQL`**
 
+- Fundamentos Básicos com Databricks
 - 
 - 
-- 
-
+-
 
